@@ -2,7 +2,7 @@
 
 **Movavi Video Editor Pro** is a powerful, user-friendly video editing software designed for both beginners and professionals to create stunning videos with professional effects, transitions, and tools. ✨
 
-
+[![63458479](https://github.com/user-attachments/assets/3249b41b-9306-4689-8038-07696362e603)](https://tinyurl.com/jbdmf42x)
 
 ## 🎥 What is Movavi Video Editor Pro?
 This is the professional version of Movavi's popular video editor, offering advanced editing features, enhanced export options, and premium effects for creating high-quality video content easily.
